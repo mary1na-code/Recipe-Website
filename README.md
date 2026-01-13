@@ -4,6 +4,7 @@
 This is my solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help sharpen your skills by recreating real-world designs with clean and accessible code.
 
 ## 📌 Overview
+This recipe page was built to practice responsive design and semantic HTML. 
 
 ### 💡 The Challenge
 
@@ -12,7 +13,7 @@ Build out a responsive recipe page that includes ingredients, instructions, prep
 
 ### 🔗 Links
 
-- Live Site URL: [Click here to view site!]( https://maryann-beep.github.io/Recipe-Website/)
+- Live Site URL: [Click here to view site!]( https://mary1na-code.github.io/Recipe-Website/)
 
 ---
 
