@@ -62,5 +62,5 @@ Going forward, I’d like to:
 ## 👩‍💻 Author
 
 - GitHub - [Maryann-beep](https://github.com/Maryann-beep)
-- Frontend Mentor - [@Maryann-beep](https://www.frontendmentor.io/profile/Maryann-beep)
+- Frontend Mentor - [@mary1na-code](https://www.frontendmentor.io/profile/Maryann-beep)
 
